@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="barcode_reticle_background">#99000000</color>
+
+    <color name="qr_code_white">#FFFFFFFF</color>
+    <color name="qr_code_flashlight_bg">#66000000</color>
+    <color name="qr_code_finder_mask">#80000000</color>
+    <color name="qr_code_flash_light_text_color">#66FFFFFF</color>
+    <color name="qr_code_finder_frame">#FFFFFFFF</color>
+    <color name="green">#25f705</color>
+
+    <color name="qr_code_finder_laser">#25f705</color>
+
+    <color name="purple_200">#FF0000</color>
+    <color name="purple_500">#8B82FF</color>
+    <color name="purple_700">#8B82FF</color>
+    <color name="teal_200">#FEC60C</color>
+    <color name="teal_700">#FEC60C</color>
+    <color name="ads_color">#FFA6A6</color>
+    <color name="primary_color">#FEC60C</color>
+</resources>

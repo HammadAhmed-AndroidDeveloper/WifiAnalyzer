@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Wifi Analyzer</string>
+    <string name="share_via">Share Via</string>
+    <string name="result">Result</string>
+    <string name="copy">Copy</string>
+    <string name="title_activity_scan_qr_code">Scan\n</string>
+
+
+    <string name="qc_code_close">Close</string>
+    <string name="qr_code_select_picture">Picture</string>
+    <string name="qr_code_open_flash_light">Open flash light</string>
+    <string name="qr_code_close_flash_light">Close Flash Light</string>
+    <string name="qr_code_auto_scan_notification">Position QR Code</string>
+    <string name="qr_code_notification">Notification</string>
+    <string name="qr_code_camera_not_open">Could not open your camera</string>
+    <string name="qr_code_positive_button_know">OK</string>
+    <string name="qr_code_positive_button_confirm">Confirm</string>
+    <string name="qr_code_could_not_read_qr_code_from_picture">Could not read your image.Try another image~</string>
+    <string name="qr_code_could_not_read_qr_code_from_scanner">Sorry, could not open scan content</string>
+    <string name="qr_code_camera_not_found">Could not detect camera</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="appId">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="nativeAd">ca-app-pub-3940256099942544/1044960115</string>
+    <string name="openAd">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="ca_app_pub_3940256099942544_6300978111">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
